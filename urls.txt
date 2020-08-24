@@ -1,0 +1,12 @@
+
+
+ Popular Cities=https://www.timeanddate.com/worldclock/?low=4
+ Europa=https://www.timeanddate.com/worldclock/?continent=europe
+
+ Afrika=https://www.timeanddate.com/worldclock/?continent=africa
+ Australasia=https://www.timeanddate.com/worldclock/?continent=australasia
+ North Americas=https://www.timeanddate.com/worldclock/?continent=namerica
+ South Americas=https://www.timeanddate.com/worldclock/?continent=samerica
+ Asia=https://www.timeanddate.com/worldclock/?continent=asia
+
+

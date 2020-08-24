@@ -1,0 +1,10 @@
+ Popular Cities=P
+ Europa=E
+ Afrika=A
+ Australasia=A
+ North Americas=N
+ South Americas=S
+ Asia=A
+//And now two bad entries...
+Bibbidi=
+Babbidi

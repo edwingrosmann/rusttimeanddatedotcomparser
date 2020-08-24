@@ -1,0 +1,13 @@
+# Popular Cities=P
+    Europa=E
+
+
+ Afrika=A
+ //Australasia=A
+
+North Americas=N
+ South Americas=S
+ Asia=A
+
+ Bibbidi=
+ Babbidi
